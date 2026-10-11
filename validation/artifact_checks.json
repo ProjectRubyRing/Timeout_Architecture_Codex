@@ -1,0 +1,61 @@
+{
+  "artifact_checks": "PASS",
+  "sheets": 23,
+  "parameters": 55,
+  "sources": 57,
+  "populated_cells": 2373,
+  "cell_fonts": [
+    "Meiryo UI"
+  ],
+  "formula_caches": {
+    "13_予算計算!B13": {
+      "formula": "=SUM(B6:B12)",
+      "cached": 25
+    },
+    "13_予算計算!B19": {
+      "formula": "=B16-B15",
+      "cached": 4
+    },
+    "13_予算計算!B20": {
+      "formula": "=B17-B16",
+      "cached": 6
+    },
+    "13_予算計算!B22": {
+      "formula": "=IF(AND(B13<=B15,B15<B16,B16<B17),\"予算内\",\"要再設計\")",
+      "cached": "予算内"
+    },
+    "13_予算計算!B27": {
+      "formula": "=B26/2",
+      "cached": 2.5
+    },
+    "13_予算計算!B28": {
+      "formula": "=(B26+B27)*60",
+      "cached": 450
+    },
+    "13_予算計算!B31": {
+      "formula": "=IF(AND(B28<B29,B29<B30),\"余白あり\",\"要再設計\")",
+      "cached": "余白あり"
+    },
+    "13_予算計算!B37": {
+      "formula": "=B35*B36",
+      "cached": 700
+    },
+    "13_予算計算!B40": {
+      "formula": "=B39*1.3",
+      "cached": 585
+    },
+    "13_予算計算!B41": {
+      "formula": "=IF(B40<=B38,\"枠内\",\"要再設計\")",
+      "cached": "枠内"
+    }
+  },
+  "markdown_characters": 98939,
+  "markdown_lines": 1270,
+  "errors": [],
+  "sha256": {
+    "AWS_Timeout_Design_2026-10-11.xlsx": "f9ea17a15489705885a620409f0ab895ab99be007f84e578b0f70a949b114919",
+    "AWS_Timeout_Design_2026-10-11.md": "51889b30e042b62a3b6ffa86e7dc6d82b436b17bfc164dedaea447b52beffc18"
+  },
+  "runtime_validation": "AWS / JBoss / MySQL integration and load tests NOT RUN",
+  "git": "Workspace is not a Git repository; text whitespace and file inventory checked separately."
+}

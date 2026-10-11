@@ -1,0 +1,12 @@
+{
+  "render_type": "Pillow using XLSX cells and installed Meiryo UI fonts; not native Excel",
+  "overflow_candidates": [],
+  "previews": [
+    "C:\\Users\\taka_\\Codex\\Timeout_Architecture_Codex\\validation\\01_結論と前提_preview.png",
+    "C:\\Users\\taka_\\Codex\\Timeout_Architecture_Codex\\validation\\02a_構成図_preview.png",
+    "C:\\Users\\taka_\\Codex\\Timeout_Architecture_Codex\\validation\\04_設定値一覧_preview.png",
+    "C:\\Users\\taka_\\Codex\\Timeout_Architecture_Codex\\validation\\06_JBossとJavaの動作_preview.png",
+    "C:\\Users\\taka_\\Codex\\Timeout_Architecture_Codex\\validation\\13_予算計算_preview.png",
+    "C:\\Users\\taka_\\Codex\\Timeout_Architecture_Codex\\validation\\15_設定と確認例_preview.png"
+  ]
+}
